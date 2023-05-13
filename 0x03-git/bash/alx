@@ -1,6 +1,5 @@
-#!/bin/bash
 <<<<<<< HEAD
-echo "ALX School is so cool!"
+# code from the main branch
 =======
-echo "ALX School"
+# code from the update_script branch
 >>>>>>> update_script
